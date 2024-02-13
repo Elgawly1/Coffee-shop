@@ -323,3 +323,8 @@ header input::placeholder {
         color: #fab7ab;
     }
 } 
+@media (max-height: 770px) {
+    .con .info {
+        margin-bottom: 3.5em;
+    }
+}
