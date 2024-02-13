@@ -322,9 +322,15 @@ header input::placeholder {
     .con .info p span {
         color: #fab7ab;
     }
-} 
+}
+
 @media (max-height: 770px) {
     .con .info {
         margin-bottom: 3.5em;
+    }
+}
+@media (max-height: 720px) {
+    .con .info {
+        margin-bottom: 3.9em;
     }
 }
